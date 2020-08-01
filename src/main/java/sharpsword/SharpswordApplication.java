@@ -11,4 +11,5 @@ public class SharpswordApplication {
 		//System.out.print(new BCryptPasswordEncoder().encode("JA2fth82"));
 		// http://localhost:8080/swagger-ui.html
 	}
+	
 }
